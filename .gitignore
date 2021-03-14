@@ -1,0 +1,10 @@
+.DS_Store
+**/.vs
+**/bin
+**/obj
+**/packages
+**/mono_crash**
+**/.idea
+node_modules
+dev
+dist
